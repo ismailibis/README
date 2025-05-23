@@ -45,4 +45,4 @@ Main.java dosyasına sağ tıklayıp "Run As → Java Application" seçildiğind
 - Main.java → Uygulamayı başlatır
 - AnaMenu.java → Ana ekranı açar
 
-Hazırlayanlar: (Adınızı buraya yazabilirsiniz)
+
