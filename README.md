@@ -33,7 +33,7 @@ Bu dosya masaüstünde bulunmalıdır. Yoksa uygulama ilk açıldığında otoma
 
 ÇALIŞTIRMA:
 
-Main.java dosyasına sağ tıklayıp "Run As → Java Application" seçildiğinde uygulama açılır.
+Main.java dosyasına sağ tıklayıp "Run As → Java Application" seçildiğinde uygulama açılır. Kullanıcı adı : admin    Şifre : 1234
 
 Özellikler:
 
